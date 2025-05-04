@@ -1,0 +1,16 @@
+{
+  "name": "naruto-app-api",
+  "version": "1.0.0",
+  "description": "このプロジェクトは、NARUTO のキャラクター情報を提供する RESTful API です。",
+  "main": "api.js",
+  "scripts": {
+    "dev": "node api.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
